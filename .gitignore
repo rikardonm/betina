@@ -1,0 +1,6 @@
+# Python virtual environment & others
+.venv/
+__pycache__/
+**.pyc
+# sphinx build dir
+build/

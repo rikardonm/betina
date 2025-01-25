@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"esbonio.sphinx.confDir": "${workspaceFolder}/source",
+		"cSpell.words": [
+			"toctree"
+		],
+		"cSpell.words": [
+			"partitionable"
+		],
+		"esbonio.sphinx.confDir": "${workspaceFolder}/source",
+		"restructuredtext.linter.doc8.extraArgs": [
+			"--max-line-length=120"
+		]
+	}
+}

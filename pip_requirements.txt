@@ -1,1 +1,3 @@
 sphinx-press-theme
+docutils
+sphinx-autobuild

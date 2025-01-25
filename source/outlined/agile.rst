@@ -49,3 +49,9 @@ integrate improvements in the partitionable work
 Speak in terms of what's ready to go, and in terms of what they'd like you to do next."
 default work
 (A) must be requested by PO and PM PO and PM do not partition default work
+
+
+
+--- it naturally develops,
+when the need to have a more detailed look into the tasks arises
+when the need to develop a more accurate time estimation for the job

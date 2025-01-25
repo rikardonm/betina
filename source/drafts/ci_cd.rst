@@ -1,5 +1,5 @@
-CICD
-====
+CI/CD
+=====
 
 Here's an unpopular opinion: CI is only valuable if employed along with CD.
 

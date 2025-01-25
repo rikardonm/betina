@@ -1,33 +1,40 @@
-x-Ware Development - Dimensions
+x-Ware Development
 ====================================
 
-This is a collection of thoughts and ramblings related to software, hardware and DIY developments.
+This is a collection of thoughts and ramblings related to software, hardware and DIY project development.
+In other words, random comments and thoughts I've collected over the years.
 
-Random software and hardware development topics and discussions.
+Well ... not really years, as I only started writing (and collecting) these recently.
 
 .. warning::
-    The contents are highly opionated and contain various ironic, hyperbolic and mocking statements.
+    The contents are highly opinionated and contain various ironic, hyperbolic and mocking statements.
+    Part of the text should be taken seriously, while the other parts shall not.
+    The classification of each may vary over time.
 
 
-me-proof:
-I strive to make thing simple, not because I think of myself as a smart person, but for the exact opposite.
+Objective and Incentive
+-----------------------
+
+This thought collection is a product of documenting the thoughts and ideas sprung from discussions with friends and colleagues.
+My incentive is pretty clear: expose and detail the controversial thoughts.
+
+Like this one:
+
+    I try to make things "me-proof".
+    I strive to make thing simple, not because I think of myself as a smart person, but for the exact opposite.
+    I attempt to document and explain in a clear manner for the next guy, for it is very likely that the next guy is future me.
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+    :maxdepth: 2
+    :caption: Contents:
 
-   abstract_models
-   agile
-   cicd
-   comments
-   misc
-   soft_vs_hard
-   versioning
+    outlined/outlined
+    drafts/drafts
+    mijn liedje
 
 
 Indices and tables
 ==================
 
 * :ref:`genindex`
-* :ref:`search`

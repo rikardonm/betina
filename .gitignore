@@ -1,6 +1,8 @@
 # Python virtual environment & others
 .venv/
+venv/
 __pycache__/
 **.pyc
 # sphinx build dir
-build/
+**/build/
+**/_build/

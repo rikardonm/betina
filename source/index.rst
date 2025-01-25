@@ -1,5 +1,5 @@
-x-Ware Development
-====================================
+Betina - general rants
+======================
 
 This is a collection of thoughts and ramblings related to software, hardware and DIY project development.
 In other words, random comments and thoughts I've collected over the years.

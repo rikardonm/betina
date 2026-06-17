@@ -16,3 +16,7 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
     Luck is what happens when preparation meets meets opportunity
 
     -- Seneca
+
+    Shoulda taken the money, Toombs.
+
+    -- Riddick

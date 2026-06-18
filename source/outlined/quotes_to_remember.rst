@@ -20,3 +20,8 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
     Shoulda taken the money, Toombs.
 
     -- Riddick
+
+    Facts are meaningless. You could use facts to prove anything that's even remotely true!
+
+    -- Homer Simpson (Matt Groening)
+

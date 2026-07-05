@@ -25,3 +25,8 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
 
     -- Homer Simpson (Matt Groening)
 
+    To the children ardent for some desperate glory,
+    The old Lie: *Dulce et decorum est Pro patria mori*
+
+    -- Wilfred Owen
+

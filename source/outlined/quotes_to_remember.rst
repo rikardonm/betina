@@ -30,3 +30,11 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
 
     -- Wilfred Owen
 
+    If I had a world of my own, evertyhing would be nonsense.
+    Nothing would be what it is, because everything would be what it isn't.
+    And contrariwise, what it is, it wouldn't be.
+    And what it wouldn't be it would.
+    You see?
+
+    -- Mad Hatter, Alice in Wonderland (Lewis Carroll)
+

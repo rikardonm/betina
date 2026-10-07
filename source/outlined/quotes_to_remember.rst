@@ -4,10 +4,9 @@ Quotes to Remember
 This page serves the sole purpose of tracking (to more easily remember) the quotes that I like and find meaningful.
 
 
-    The eye sees only what the mind is prepared to comprehend.
+    The eye sees only what the mind is prepared to comprehend
 
     -- Henri Bergson
-
 
     Hope is not a plan
 
@@ -17,7 +16,7 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
 
     -- Seneca
 
-    Shoulda taken the money, Toombs.
+    Shoulda taken the money, Toombs
 
     -- Riddick
 
@@ -37,4 +36,8 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
     You see?
 
     -- Mad Hatter, Alice in Wonderland (Lewis Carroll)
+
+    All is fair in love and war
+
+    -- Unknown to me
 

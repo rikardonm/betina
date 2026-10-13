@@ -41,3 +41,7 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
 
     -- Unknown to me
 
+    The richer get richer and the poor get children.
+
+    -- Ain't We Got Fun (Raymond B. Egan, Gus Kahn)
+

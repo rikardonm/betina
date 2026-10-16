@@ -45,3 +45,14 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
 
     -- Ain't We Got Fun (Raymond B. Egan, Gus Kahn)
 
+    Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
+
+    -- Charles Goodhart [#aa3]_
+
+    When a measure becomes a target, it ceases to be a good measure.
+
+    -- Marylyn Strathern [#aa3]_
+
+
+.. [#aa3] `Agile Laws | Goodhart's Law <https://agilelaws.com/agile-decision-heuristics-and-mental-models/goodharts-law.html>`_
+

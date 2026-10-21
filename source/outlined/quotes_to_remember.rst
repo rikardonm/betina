@@ -53,6 +53,10 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
 
     -- Marylyn Strathern [#aa3]_
 
+    Being too early is indistinguishable from being wrong.
+
+    -- Tim O'Reilly
+
 
 .. [#aa3] `Agile Laws | Goodhart's Law <https://agilelaws.com/agile-decision-heuristics-and-mental-models/goodharts-law.html>`_
 

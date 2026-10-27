@@ -61,6 +61,11 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
 
     -- J.P. Morgan
 
+    Loving a country that doesn't love you back is exhausting.
+
+    -- Davie504 [#aa4]_
+
 
 .. [#aa3] `Agile Laws | Goodhart's Law <https://agilelaws.com/agile-decision-heuristics-and-mental-models/goodharts-law.html>`_
+.. [#aa4] `It's Time to Say Goodbye. <https://www.youtube.com/watch?v=qaDufiqttxk>`_
 

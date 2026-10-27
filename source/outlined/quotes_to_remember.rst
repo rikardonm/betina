@@ -57,6 +57,10 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
 
     -- Tim O'Reilly
 
+    Gold is money. Everything else is credit.
+
+    -- J.P. Morgan
+
 
 .. [#aa3] `Agile Laws | Goodhart's Law <https://agilelaws.com/agile-decision-heuristics-and-mental-models/goodharts-law.html>`_
 

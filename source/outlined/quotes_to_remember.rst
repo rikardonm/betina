@@ -35,7 +35,7 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
     And what it wouldn't be it would.
     You see?
 
-    -- Mad Hatter, Alice in Wonderland (Lewis Carroll)
+    -- Alice in Wonderland, Disney 1951
 
     All is fair in love and war
 
@@ -64,6 +64,14 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
     Loving a country that doesn't love you back is exhausting.
 
     -- Davie504 [#aa4]_
+
+    Beauty is in the eye of the beholder.
+
+    -- Unknown to me.
+
+    Comparison is the thief of joy.
+
+    -- Unknown to me.
 
 
 .. [#aa3] `Agile Laws | Goodhart's Law <https://agilelaws.com/agile-decision-heuristics-and-mental-models/goodharts-law.html>`_

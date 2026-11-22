@@ -73,6 +73,10 @@ This page serves the sole purpose of tracking (to more easily remember) the quot
 
     -- Unknown to me.
 
+    Incentives trumps ethics every time.
+
+    -- Steve Eisman
+
 
 .. [#aa3] `Agile Laws | Goodhart's Law <https://agilelaws.com/agile-decision-heuristics-and-mental-models/goodharts-law.html>`_
 .. [#aa4] `It's Time to Say Goodbye. <https://www.youtube.com/watch?v=qaDufiqttxk>`_
